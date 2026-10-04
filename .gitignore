@@ -1,0 +1,28 @@
+# Environment & secrets
+.env
+.venv/
+tidal_session.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data
+*.png
+*.csv
+
+# IDE
+.vscode/
+
+# Dependencies
+OrpheusDL/
+
+# Snyk Security Extension - AI Rules (auto-generated)
+.windsurf/rules/snyk_rules.md
